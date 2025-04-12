@@ -7957,3 +7957,9 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'totemic:bark_stripper'
 [21:41:59] [Aromabackup-Backup/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AromaBackup] Server Backup done!
 [21:47:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juab2as has reached the goal [advancements.stage0.firstchest.title]
 [21:49:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: PansitoPa has reached the goal [advancements.stage0.firstchest.title]
+[21:52:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: PansitoPa has made the advancement [advancements.stage0.kiln.title]
+[21:53:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juab2as has made the advancement [advancements.stage0.kiln.title]
+[21:54:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: PansitoPa has made the advancement [advancements.stage0.lowgradecharcoal.title]
+[21:57:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juab2as has reached the goal [advancements.stage0.woodhopper1.title]
+[21:58:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juab2as has reached the goal [advancements.stage0.woodhopper2.title]
+[21:58:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juab2as has made the advancement [advancements.stage0.waterstrainer.title]

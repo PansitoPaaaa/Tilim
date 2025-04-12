@@ -38,6 +38,12 @@
     },
     "done": true
   },
+  "triumph:stage0/flamehopper": {
+    "criteria": {
+      "completedParent": "2025-04-12 21:58:07 +0000"
+    },
+    "done": false
+  },
   "triumph:stage0/farmland": {
     "criteria": {
       "completedParent": "2025-04-12 21:09:10 +0000"
@@ -46,14 +52,28 @@
   },
   "triumph:stage0/woodhopper1": {
     "criteria": {
+      "hasRock": "2025-04-12 21:57:51 +0000",
       "completedParent": "2025-04-12 21:47:12 +0000"
     },
-    "done": false
+    "done": true
   },
   "triumph:stage0/workstump": {
     "criteria": {
       "completedParent": "2025-04-12 20:50:56 +0000",
       "crafted": "2025-04-12 20:51:09 +0000"
+    },
+    "done": true
+  },
+  "triumph:stage0/lowgradecharcoal": {
+    "criteria": {
+      "completedParent": "2025-04-12 21:53:21 +0000"
+    },
+    "done": false
+  },
+  "triumph:stage0/woodhopper2": {
+    "criteria": {
+      "hasRock": "2025-04-12 21:58:07 +0000",
+      "completedParent": "2025-04-12 21:57:51 +0000"
     },
     "done": true
   },
@@ -114,9 +134,11 @@
   },
   "triumph:stage0/waterstrainer": {
     "criteria": {
-      "completedParent": "2025-04-12 20:51:09 +0000"
+      "completedParent": "2025-04-12 20:51:09 +0000",
+      "hasRock2": "2025-04-12 21:58:39 +0000",
+      "hasRock1": "2025-04-12 21:50:54 +0000"
     },
-    "done": false
+    "done": true
   },
   "triumph:stage0/grill": {
     "criteria": {
@@ -140,9 +162,10 @@
   },
   "triumph:stage0/kiln": {
     "criteria": {
+      "hasRock": "2025-04-12 21:53:21 +0000",
       "completedParent": "2025-04-12 20:51:09 +0000"
     },
-    "done": false
+    "done": true
   },
   "triumph:stage0/firstchest": {
     "criteria": {
