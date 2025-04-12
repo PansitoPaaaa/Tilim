@@ -19,6 +19,12 @@
     },
     "done": true
   },
+  "triumph:stage0/chestupgrade": {
+    "criteria": {
+      "completedParent": "2025-04-12 21:47:12 +0000"
+    },
+    "done": false
+  },
   "triumph:stage0/fluidbladder": {
     "criteria": {
       "completedParent": "2025-04-12 20:51:09 +0000"
@@ -35,6 +41,12 @@
   "triumph:stage0/farmland": {
     "criteria": {
       "completedParent": "2025-04-12 21:09:10 +0000"
+    },
+    "done": false
+  },
+  "triumph:stage0/woodhopper1": {
+    "criteria": {
+      "completedParent": "2025-04-12 21:47:12 +0000"
     },
     "done": false
   },
@@ -134,9 +146,10 @@
   },
   "triumph:stage0/firstchest": {
     "criteria": {
+      "hasRock": "2025-04-12 21:47:12 +0000",
       "completedParent": "2025-04-12 20:51:09 +0000"
     },
-    "done": false
+    "done": true
   },
   "triumph:stage0/saltflats": {
     "criteria": {
