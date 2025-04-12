@@ -66,9 +66,10 @@
   },
   "triumph:stage0/lowgradecharcoal": {
     "criteria": {
+      "hasRock": "2025-04-12 22:08:22 +0000",
       "completedParent": "2025-04-12 21:53:21 +0000"
     },
-    "done": false
+    "done": true
   },
   "triumph:stage0/woodhopper2": {
     "criteria": {
@@ -93,9 +94,10 @@
   },
   "triumph:stage0/handgrind": {
     "criteria": {
+      "hasRock": "2025-04-12 22:06:14 +0000",
       "completedParent": "2025-04-12 20:51:09 +0000"
     },
-    "done": false
+    "done": true
   },
   "triumph:stage0/weaponize": {
     "criteria": {

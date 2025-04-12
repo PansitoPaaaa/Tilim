@@ -7963,3 +7963,6 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'totemic:bark_stripper'
 [21:57:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juab2as has reached the goal [advancements.stage0.woodhopper1.title]
 [21:58:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juab2as has reached the goal [advancements.stage0.woodhopper2.title]
 [21:58:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juab2as has made the advancement [advancements.stage0.waterstrainer.title]
+[22:03:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: PansitoPa has made the advancement [advancements.stage0.workblade.title]
+[22:06:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juab2as has made the advancement [advancements.stage0.handgrind.title]
+[22:08:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juab2as has made the advancement [advancements.stage0.lowgradecharcoal.title]

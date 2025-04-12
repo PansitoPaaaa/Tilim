@@ -1,9 +1,10 @@
 {
   "triumph:stage0/workblade": {
     "criteria": {
+      "hasRock": "2025-04-12 22:03:09 +0000",
       "completedParent": "2025-04-12 21:06:06 +0000"
     },
-    "done": false
+    "done": true
   },
   "triumph:stage0/naturescompass": {
     "criteria": {
@@ -36,6 +37,12 @@
       "completedParent": "2025-04-12 21:09:41 +0000"
     },
     "done": true
+  },
+  "triumph:stage0/farmland": {
+    "criteria": {
+      "completedParent": "2025-04-12 22:03:09 +0000"
+    },
+    "done": false
   },
   "triumph:stage0/woodhopper1": {
     "criteria": {
@@ -171,5 +178,11 @@
       "completedParent": "2025-04-12 20:53:10 +0000"
     },
     "done": true
+  },
+  "triumph:stage0/atlas": {
+    "criteria": {
+      "completedParent": "2025-04-12 22:03:09 +0000"
+    },
+    "done": false
   }
 }
