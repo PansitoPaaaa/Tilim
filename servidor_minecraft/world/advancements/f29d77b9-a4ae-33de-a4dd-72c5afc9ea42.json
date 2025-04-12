@@ -6,6 +6,12 @@
     },
     "done": true
   },
+  "triumph:stage0/workblade": {
+    "criteria": {
+      "completedParent": "2025-04-12 21:00:47 +0000"
+    },
+    "done": false
+  },
   "triumph:stage0/naturescompass": {
     "criteria": {
       "completedParent": "2025-04-12 20:51:09 +0000"
@@ -84,9 +90,10 @@
   },
   "triumph:stage0/upgrade": {
     "criteria": {
+      "hasRock": "2025-04-12 21:00:47 +0000",
       "completedParent": "2025-04-12 20:48:55 +0000"
     },
-    "done": false
+    "done": true
   },
   "triumph:stage0/fire": {
     "criteria": {
@@ -105,6 +112,13 @@
     "criteria": {
       "hasRock": "2025-04-12 20:45:23 +0000",
       "completedParent": "2025-04-12 20:43:50 +0000"
+    },
+    "done": true
+  },
+  "triumph:stage0/stonetools": {
+    "criteria": {
+      "hasRock": "2025-04-12 21:05:38 +0000",
+      "completedParent": "2025-04-12 21:00:47 +0000"
     },
     "done": true
   },

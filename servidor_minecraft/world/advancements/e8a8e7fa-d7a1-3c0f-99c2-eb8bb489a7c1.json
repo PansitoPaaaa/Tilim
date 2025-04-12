@@ -1,4 +1,42 @@
 {
+  "triumph:stage0/workblade": {
+    "criteria": {
+      "completedParent": "2025-04-12 21:06:06 +0000"
+    },
+    "done": false
+  },
+  "triumph:stage0/naturescompass": {
+    "criteria": {
+      "completedParent": "2025-04-12 21:04:40 +0000"
+    },
+    "done": false
+  },
+  "triumph:stage0/waterstrainer": {
+    "criteria": {
+      "completedParent": "2025-04-12 21:04:40 +0000"
+    },
+    "done": false
+  },
+  "triumph:stage0/firstbreak": {
+    "criteria": {
+      "completedParent": "2025-04-12 20:57:10 +0000",
+      "brokeLog1": "2025-04-12 20:48:54 +0000"
+    },
+    "done": true
+  },
+  "triumph:stage0/fluidbladder": {
+    "criteria": {
+      "completedParent": "2025-04-12 21:04:40 +0000"
+    },
+    "done": false
+  },
+  "triumph:stage0/workstump": {
+    "criteria": {
+      "completedParent": "2025-04-12 21:03:31 +0000",
+      "crafted": "2025-04-12 21:04:40 +0000"
+    },
+    "done": true
+  },
   "triumph:stage0/root": {
     "criteria": {
       "location": "2025-04-12 03:42:36 +0000"
@@ -7,7 +45,14 @@
   },
   "triumph:stage0/collectplank": {
     "criteria": {
-      "completedParent": "2025-04-12 20:57:10 +0000"
+      "completedParent": "2025-04-12 20:57:10 +0000",
+      "crafted": "2025-04-12 21:03:31 +0000"
+    },
+    "done": true
+  },
+  "triumph:stage0/kiln": {
+    "criteria": {
+      "completedParent": "2025-04-12 21:04:40 +0000"
     },
     "done": false
   },
@@ -18,16 +63,22 @@
     },
     "done": true
   },
-  "triumph:stage0/upgrade": {
+  "triumph:stage0/firstchest": {
     "criteria": {
-      "completedParent": "2025-04-12 20:57:10 +0000"
+      "completedParent": "2025-04-12 21:04:40 +0000"
     },
     "done": false
   },
-  "triumph:stage0/firstbreak": {
+  "triumph:stage0/handgrind": {
     "criteria": {
-      "completedParent": "2025-04-12 20:57:10 +0000",
-      "brokeLog1": "2025-04-12 20:48:54 +0000"
+      "completedParent": "2025-04-12 21:04:40 +0000"
+    },
+    "done": false
+  },
+  "triumph:stage0/upgrade": {
+    "criteria": {
+      "hasRock": "2025-04-12 21:06:06 +0000",
+      "completedParent": "2025-04-12 20:57:10 +0000"
     },
     "done": true
   },
@@ -47,6 +98,13 @@
     "criteria": {
       "completedParent": "2025-04-12 03:42:36 +0000",
       "hasRock": "2025-04-12 20:53:10 +0000"
+    },
+    "done": true
+  },
+  "triumph:stage0/stonetools": {
+    "criteria": {
+      "hasRock": "2025-04-12 21:07:49 +0000",
+      "completedParent": "2025-04-12 21:06:06 +0000"
     },
     "done": true
   },
