@@ -8033,3 +8033,55 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'totemic:bark_stripper'
 [23:04:01] [Server thread/INFO] [antiqueatlas]: Sent markers data #0 to player juab2as
 [23:04:26] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
 [23:10:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PansitoPa: Set own game mode to Creative Mode]
+[23:11:56] [Aromabackup-Backup/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AromaBackup] Starting Backup. The server may lag for a bit!
+[23:11:58] [Server thread/INFO] [net.minecraft.world.chunk.storage.AnvilChunkLoader]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:11:58] [Server thread/INFO] [net.minecraft.world.chunk.storage.AnvilChunkLoader]: ThreadedAnvilChunkStorage (DIM2): All chunks are saved
+[23:12:00] [Aromabackup-Backup/INFO] [AromaBackup]: Deleted backup Backup--world--2025-04-12--04-03.zip.
+[23:12:00] [Aromabackup-Backup/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AromaBackup] Server Backup done!
+[23:12:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [juab2as: Teleported juab2as to PansitoPa]
+[23:12:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PansitoPa: Set own game mode to Survival Mode]
+[23:12:38] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: PansitoPa lost connection: Disconnected
+[23:12:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: PansitoPa left the game
+[23:13:15] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: juab2as lost connection: Disconnected
+[23:13:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juab2as left the game
+[23:13:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[23:13:32] [Server thread/INFO] [AromaBackup]: Delaying server stop to finish Backup.
+[23:13:32] [Server thread/INFO] [Prestige]: Saving data for f29d77b9-a4ae-33de-a4dd-72c5afc9ea42.
+[23:13:32] [Server thread/INFO] [Prestige]: Saving data for e8a8e7fa-d7a1-3c0f-99c2-eb8bb489a7c1.
+[23:13:32] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[23:13:32] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[23:13:32] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[23:13:32] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[23:13:32] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/Storage Cell
+[23:13:32] [Server thread/INFO] [FML]: Unloading dimension 0
+[23:13:32] [Server thread/INFO] [FML]: Unloading dimension 2
+[23:13:32] [Server thread/INFO] [Actually Additions]: Unloaded WorldData!
+[23:13:32] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -30
+[23:13:32] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -20
+[23:13:32] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -21
+[23:13:32] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -15
+[23:13:32] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -22
+[23:13:32] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -29
+[23:13:32] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -13
+[23:13:32] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -18
+[23:13:32] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -19
+[23:13:32] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -16
+[23:13:32] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -17
+[23:13:32] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -31
+[23:13:32] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -1505
+[23:13:32] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -1503
+[23:13:32] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -1501
+[23:13:32] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -1506
+[23:13:32] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -1511
+[23:13:32] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -1500
+[23:13:32] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -28
+[23:13:32] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -1509
+[23:13:32] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -1502
+[23:13:32] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -1507
+[23:13:32] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -1508
+[23:13:32] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -1510
+[23:13:32] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -1504
+[23:13:32] [Server thread/INFO] [mcjtylib_ng]: Cleaning up all world data: 2 data blobs
+[23:13:32] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[23:13:32] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[23:13:32] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
