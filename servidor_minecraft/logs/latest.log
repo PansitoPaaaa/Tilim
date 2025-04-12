@@ -8013,3 +8013,18 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'totemic:bark_stripper'
 [22:47:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [juab2as: Teleported PansitoPa to juab2as]
 [22:49:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [juab2as: Teleported juab2as to PansitoPa]
 [22:50:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [juab2as: Teleported juab2as to PansitoPa]
+[22:53:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [juab2as: Set own game mode to Creative Mode]
+[22:55:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [juab2as: Set own game mode to Survival Mode]
+[22:55:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [juab2as: Set own game mode to Creative Mode]
+[22:55:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [juab2as: Set own game mode to Survival Mode]
+[22:55:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juab2as has made the advancement [advancements.stage0.atlas.title]
+[22:55:45] [Server thread/INFO] [antiqueatlas]: Sending dimension #0
+[22:55:45] [Server thread/INFO] [antiqueatlas]: Sent dimension #0 (0 tiles)
+[22:55:45] [Server thread/INFO] [antiqueatlas]: Sent Atlas #0 data to player juab2as
+[22:56:11] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[22:57:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [juab2as: Teleported juab2as to PansitoPa]
+[22:58:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: PansitoPa has made the advancement [advancements.stage0.atlas.title]
+[22:58:23] [Server thread/INFO] [antiqueatlas]: Sending dimension #0
+[22:58:23] [Server thread/INFO] [antiqueatlas]: Sent dimension #0 (0 tiles)
+[22:58:23] [Server thread/INFO] [antiqueatlas]: Sent Atlas #1 data to player PansitoPa
+[22:58:26] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT

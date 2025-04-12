@@ -273,8 +273,9 @@
   },
   "triumph:stage0/atlas": {
     "criteria": {
+      "book1": "2025-04-12 22:55:41 +0000",
       "completedParent": "2025-04-12 21:09:10 +0000"
     },
-    "done": false
+    "done": true
   }
 }

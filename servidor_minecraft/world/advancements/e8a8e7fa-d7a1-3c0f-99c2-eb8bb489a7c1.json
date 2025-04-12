@@ -64,6 +64,12 @@
     },
     "done": true
   },
+  "triumph:stage0/leather": {
+    "criteria": {
+      "hasRock": "2025-04-12 22:59:32 +0000"
+    },
+    "done": false
+  },
   "triumph:stage0/firsttool": {
     "criteria": {
       "completedParent": "2025-04-12 03:42:36 +0000",
@@ -181,8 +187,9 @@
   },
   "triumph:stage0/atlas": {
     "criteria": {
+      "book1": "2025-04-12 22:58:09 +0000",
       "completedParent": "2025-04-12 22:03:09 +0000"
     },
-    "done": false
+    "done": true
   }
 }
