@@ -5,15 +5,54 @@
     },
     "done": true
   },
+  "triumph:stage0/collectplank": {
+    "criteria": {
+      "completedParent": "2025-04-12 20:57:10 +0000"
+    },
+    "done": false
+  },
   "triumph:stage0/firsttool": {
     "criteria": {
-      "completedParent": "2025-04-12 03:42:36 +0000"
+      "completedParent": "2025-04-12 03:42:36 +0000",
+      "hasRock": "2025-04-12 20:57:10 +0000"
+    },
+    "done": true
+  },
+  "triumph:stage0/upgrade": {
+    "criteria": {
+      "completedParent": "2025-04-12 20:57:10 +0000"
+    },
+    "done": false
+  },
+  "triumph:stage0/firstbreak": {
+    "criteria": {
+      "completedParent": "2025-04-12 20:57:10 +0000",
+      "brokeLog1": "2025-04-12 20:48:54 +0000"
+    },
+    "done": true
+  },
+  "triumph:stage0/fire": {
+    "criteria": {
+      "completedParent": "2025-04-12 20:57:10 +0000"
+    },
+    "done": false
+  },
+  "triumph:stage0/weaponize": {
+    "criteria": {
+      "completedParent": "2025-04-12 20:57:10 +0000"
     },
     "done": false
   },
   "triumph:stage0/fiber": {
     "criteria": {
-      "completedParent": "2025-04-12 03:42:36 +0000"
+      "completedParent": "2025-04-12 03:42:36 +0000",
+      "hasRock": "2025-04-12 20:53:10 +0000"
+    },
+    "done": true
+  },
+  "triumph:stage0/mesh": {
+    "criteria": {
+      "completedParent": "2025-04-12 20:53:10 +0000"
     },
     "done": false
   }

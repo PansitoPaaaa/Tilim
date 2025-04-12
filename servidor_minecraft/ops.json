@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "e8a8e7fa-d7a1-3c0f-99c2-eb8bb489a7c1",
+    "name": "PansitoPa",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

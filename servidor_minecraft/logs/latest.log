@@ -7884,3 +7884,14 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'totemic:bark_stripper'
 [20:47:36] [Server thread/INFO] [FML]: Unloading dimension 144
 [20:47:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juab2as has made the advancement [advancements.stage0.mesh.title]
 [20:48:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juab2as has made the advancement [advancements.stage0.flintknapp.title]
+[20:48:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juab2as has reached the goal [advancements.stage0.firsttool.title]
+[20:48:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juab2as has reached the goal [advancements.stage0.firstbreak.title]
+[20:50:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juab2as has reached the goal [advancements.stage0.collectplank.title]
+[20:51:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [juab2as: Object successfully summoned]
+[20:51:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juab2as has completed the challenge [advancements.stage0.workstump.title]
+[20:52:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Opped PansitoPa
+[20:52:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PansitoPa: Teleported PansitoPa to juab2as]
+[20:53:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: PansitoPa has made the advancement [advancements.stage0.fiber.title]
+[20:53:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juab2as has made the advancement [advancements.stage0.weaponize.title]
+[20:57:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: PansitoPa has reached the goal [advancements.stage0.firsttool.title]
+[20:57:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: PansitoPa has reached the goal [advancements.stage0.firstbreak.title]

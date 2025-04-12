@@ -6,23 +6,100 @@
     },
     "done": true
   },
+  "triumph:stage0/naturescompass": {
+    "criteria": {
+      "completedParent": "2025-04-12 20:51:09 +0000"
+    },
+    "done": false
+  },
+  "triumph:stage0/waterstrainer": {
+    "criteria": {
+      "completedParent": "2025-04-12 20:51:09 +0000"
+    },
+    "done": false
+  },
+  "triumph:stage0/firstbreak": {
+    "criteria": {
+      "completedParent": "2025-04-12 20:48:55 +0000",
+      "brokeLog1": "2025-04-12 20:44:17 +0000"
+    },
+    "done": true
+  },
+  "triumph:stage0/fluidbladder": {
+    "criteria": {
+      "completedParent": "2025-04-12 20:51:09 +0000"
+    },
+    "done": false
+  },
+  "triumph:stage0/spear": {
+    "criteria": {
+      "completedParent": "2025-04-12 20:53:17 +0000"
+    },
+    "done": false
+  },
+  "triumph:stage0/workstump": {
+    "criteria": {
+      "completedParent": "2025-04-12 20:50:56 +0000",
+      "crafted": "2025-04-12 20:51:09 +0000"
+    },
+    "done": true
+  },
   "triumph:stage0/root": {
     "criteria": {
       "location": "2025-04-12 20:43:50 +0000"
     },
     "done": true
   },
-  "triumph:stage0/firsttool": {
+  "triumph:stage0/collectplank": {
     "criteria": {
-      "completedParent": "2025-04-12 20:43:50 +0000"
+      "completedParent": "2025-04-12 20:48:55 +0000",
+      "crafted": "2025-04-12 20:50:56 +0000"
+    },
+    "done": true
+  },
+  "triumph:stage0/kiln": {
+    "criteria": {
+      "completedParent": "2025-04-12 20:51:09 +0000"
     },
     "done": false
   },
-  "triumph:stage0/firstbreak": {
+  "triumph:stage0/firstchest": {
     "criteria": {
-      "brokeLog1": "2025-04-12 20:44:17 +0000"
+      "completedParent": "2025-04-12 20:51:09 +0000"
     },
     "done": false
+  },
+  "triumph:stage0/firsttool": {
+    "criteria": {
+      "hasRock": "2025-04-12 20:48:55 +0000",
+      "completedParent": "2025-04-12 20:43:50 +0000"
+    },
+    "done": true
+  },
+  "triumph:stage0/handgrind": {
+    "criteria": {
+      "completedParent": "2025-04-12 20:51:09 +0000"
+    },
+    "done": false
+  },
+  "triumph:stage0/upgrade": {
+    "criteria": {
+      "completedParent": "2025-04-12 20:48:55 +0000"
+    },
+    "done": false
+  },
+  "triumph:stage0/fire": {
+    "criteria": {
+      "completedParent": "2025-04-12 20:48:55 +0000"
+    },
+    "done": false
+  },
+  "triumph:stage0/weaponize": {
+    "criteria": {
+      "hasRock": "2025-04-12 20:53:17 +0000",
+      "completedParent": "2025-04-12 20:48:55 +0000"
+    },
+    "done": true
   },
   "triumph:stage0/fiber": {
     "criteria": {
@@ -30,6 +107,12 @@
       "completedParent": "2025-04-12 20:43:50 +0000"
     },
     "done": true
+  },
+  "triumph:stage0/tomahawk": {
+    "criteria": {
+      "completedParent": "2025-04-12 20:53:17 +0000"
+    },
+    "done": false
   },
   "triumph:stage0/mesh": {
     "criteria": {
