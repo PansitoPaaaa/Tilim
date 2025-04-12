@@ -7904,3 +7904,29 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'totemic:bark_stripper'
 [21:06:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: PansitoPa has made the advancement [advancements.stage0.upgrade.title]
 [21:07:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: PansitoPa has made the advancement [advancements.stage0.stonetools.title]
 [21:09:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juab2as has made the advancement [advancements.stage0.workblade.title]
+[21:09:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: PansitoPa has made the advancement [advancements.stage0.weaponize.title]
+[21:11:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PansitoPa: Given [Flint] * 32 to PansitoPa]
+[21:11:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juab2as has made the advancement [advancements.stage0.tomahawk.title]
+[21:11:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: PansitoPa was pummeled by juab2as
+[21:11:36] [Server thread/INFO] [simpletomb]: Format error: Tomb created at: %s
+[21:11:37] [Server thread/INFO] [journeymap]: PansitoPa joining dimension 0
+[21:11:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PansitoPa: Teleported PansitoPa to juab2as]
+[21:11:56] [Aromabackup-Backup/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AromaBackup] Starting Backup. The server may lag for a bit!
+[21:11:58] [Server thread/INFO] [net.minecraft.world.chunk.storage.AnvilChunkLoader]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:11:58] [Server thread/INFO] [net.minecraft.world.chunk.storage.AnvilChunkLoader]: ThreadedAnvilChunkStorage (DIM2): All chunks are saved
+[21:11:58] [Aromabackup-Backup/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AromaBackup] Server Backup done!
+[21:12:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juab2as has made the advancement [advancements.stage0.spear.title]
+[21:13:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PansitoPa: Teleported PansitoPa to juab2as]
+[21:14:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: PansitoPa has made the advancement [advancements.stage0.tomahawk.title]
+[21:15:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juab2as has made the advancement [advancements.stage0.fish.title]
+[21:16:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: PansitoPa has made the advancement [advancements.stage0.spear.title]
+[21:17:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: PansitoPa has made the advancement [advancements.stage0.fish.title]
+[21:19:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PansitoPa: Teleported PansitoPa to juab2as]
+[21:21:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juab2as has made the advancement [advancements.stage0.fire.title]
+[21:21:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: PansitoPa has made the advancement [advancements.stage0.fire.title]
+[21:22:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juab2as has made the advancement [advancements.stage0.firepit.title]
+[21:24:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PansitoPa: Given [Gravel] * 32 to PansitoPa]
+[21:24:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: PansitoPa has made the advancement [advancements.stage0.mesh.title]
+[21:24:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: PansitoPa has made the advancement [advancements.stage0.flintknapp.title]
+[21:25:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Opped juab2as
+[21:27:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juab2as has made the advancement [advancements.stage0.grill.title]

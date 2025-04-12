@@ -1,4 +1,11 @@
 {
+  "triumph:stage0/flintknapp": {
+    "criteria": {
+      "hasRock": "2025-04-12 21:11:30 +0000",
+      "completedParent": "2025-04-12 21:24:54 +0000"
+    },
+    "done": true
+  },
   "triumph:stage0/workblade": {
     "criteria": {
       "completedParent": "2025-04-12 21:06:06 +0000"
@@ -29,6 +36,13 @@
       "completedParent": "2025-04-12 21:04:40 +0000"
     },
     "done": false
+  },
+  "triumph:stage0/spear": {
+    "criteria": {
+      "hasRock": "2025-04-12 21:16:19 +0000",
+      "completedParent": "2025-04-12 21:09:41 +0000"
+    },
+    "done": true
   },
   "triumph:stage0/workstump": {
     "criteria": {
@@ -69,6 +83,13 @@
     },
     "done": false
   },
+  "triumph:stage0/fish": {
+    "criteria": {
+      "killed_fish": "2025-04-12 21:17:54 +0000",
+      "completedParent": "2025-04-12 21:16:19 +0000"
+    },
+    "done": true
+  },
   "triumph:stage0/handgrind": {
     "criteria": {
       "completedParent": "2025-04-12 21:04:40 +0000"
@@ -84,15 +105,17 @@
   },
   "triumph:stage0/fire": {
     "criteria": {
+      "hasRock": "2025-04-12 21:21:44 +0000",
       "completedParent": "2025-04-12 20:57:10 +0000"
     },
-    "done": false
+    "done": true
   },
   "triumph:stage0/weaponize": {
     "criteria": {
+      "hasRock": "2025-04-12 21:09:41 +0000",
       "completedParent": "2025-04-12 20:57:10 +0000"
     },
-    "done": false
+    "done": true
   },
   "triumph:stage0/fiber": {
     "criteria": {
@@ -101,6 +124,12 @@
     },
     "done": true
   },
+  "triumph:stage0/firepit": {
+    "criteria": {
+      "completedParent": "2025-04-12 21:21:44 +0000"
+    },
+    "done": false
+  },
   "triumph:stage0/stonetools": {
     "criteria": {
       "hasRock": "2025-04-12 21:07:49 +0000",
@@ -108,10 +137,18 @@
     },
     "done": true
   },
+  "triumph:stage0/tomahawk": {
+    "criteria": {
+      "hasRock": "2025-04-12 21:14:36 +0000",
+      "completedParent": "2025-04-12 21:09:41 +0000"
+    },
+    "done": true
+  },
   "triumph:stage0/mesh": {
     "criteria": {
+      "hasRock": "2025-04-12 21:24:54 +0000",
       "completedParent": "2025-04-12 20:53:10 +0000"
     },
-    "done": false
+    "done": true
   }
 }
