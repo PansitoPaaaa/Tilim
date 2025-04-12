@@ -25,6 +25,12 @@
     },
     "done": true
   },
+  "triumph:stage0/saddle": {
+    "criteria": {
+      "completedParent": "2025-04-12 22:41:25 +0000"
+    },
+    "done": false
+  },
   "triumph:stage0/chestupgrade": {
     "criteria": {
       "completedParent": "2025-04-12 21:47:12 +0000"
@@ -44,6 +50,12 @@
       "completedParent": "2025-04-12 20:53:17 +0000"
     },
     "done": true
+  },
+  "triumph:stage0/horsechopper": {
+    "criteria": {
+      "completedParent": "2025-04-12 22:41:54 +0000"
+    },
+    "done": false
   },
   "triumph:stage0/totemic": {
     "criteria": {
@@ -94,9 +106,10 @@
   },
   "triumph:stage0/lead": {
     "criteria": {
+      "hasRock": "2025-04-12 22:41:25 +0000",
       "completedParent": "2025-04-12 22:39:24 +0000"
     },
-    "done": false
+    "done": true
   },
   "triumph:stage0/leather": {
     "criteria": {
@@ -230,6 +243,13 @@
     },
     "done": true
   },
+  "triumph:stage0/horsepower": {
+    "criteria": {
+      "hasRock": "2025-04-12 22:41:54 +0000",
+      "completedParent": "2025-04-12 22:41:25 +0000"
+    },
+    "done": true
+  },
   "triumph:stage0/tomahawk": {
     "criteria": {
       "hasRock": "2025-04-12 21:11:32 +0000",
@@ -239,9 +259,10 @@
   },
   "triumph:stage0/woodenbarrel": {
     "criteria": {
-      "completedParent": "2025-04-12 22:19:04 +0000"
+      "completedParent": "2025-04-12 22:19:04 +0000",
+      "hasRock1": "2025-04-12 22:40:54 +0000"
     },
-    "done": false
+    "done": true
   },
   "triumph:stage0/mesh": {
     "criteria": {

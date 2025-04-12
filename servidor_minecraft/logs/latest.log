@@ -8002,3 +8002,14 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'totemic:bark_stripper'
 [22:27:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juab2as has made the advancement [advancements.stage0.saltflats.title]
 [22:35:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PansitoPa: Teleported PansitoPa to juab2as]
 [22:39:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juab2as has made the advancement [advancements.stage0.leather.title]
+[22:40:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juab2as has made the advancement [advancements.stage0.woodenbarrel.title]
+[22:41:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juab2as has made the advancement [advancements.stage0.lead.title]
+[22:41:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juab2as has made the advancement [advancements.stage0.horsepower.title]
+[22:41:56] [Aromabackup-Backup/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AromaBackup] Starting Backup. The server may lag for a bit!
+[22:41:58] [File IO Thread/INFO] [net.minecraft.world.chunk.storage.AnvilChunkLoader]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:41:58] [Server thread/INFO] [net.minecraft.world.chunk.storage.AnvilChunkLoader]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:41:58] [Server thread/INFO] [net.minecraft.world.chunk.storage.AnvilChunkLoader]: ThreadedAnvilChunkStorage (DIM2): All chunks are saved
+[22:42:00] [Aromabackup-Backup/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AromaBackup] Server Backup done!
+[22:47:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [juab2as: Teleported PansitoPa to juab2as]
+[22:49:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [juab2as: Teleported juab2as to PansitoPa]
+[22:50:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [juab2as: Teleported juab2as to PansitoPa]
