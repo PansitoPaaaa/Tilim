@@ -1,4 +1,10 @@
 {
+  "triumph:stage0/mat": {
+    "criteria": {
+      "completedParent": "2025-04-12 22:39:24 +0000"
+    },
+    "done": false
+  },
   "triumph:stage0/workblade": {
     "criteria": {
       "hasRock": "2025-04-12 21:09:10 +0000",
@@ -38,6 +44,12 @@
       "completedParent": "2025-04-12 20:53:17 +0000"
     },
     "done": true
+  },
+  "triumph:stage0/totemic": {
+    "criteria": {
+      "completedParent": "2025-04-12 22:39:24 +0000"
+    },
+    "done": false
   },
   "triumph:stage0/flamehopper": {
     "criteria": {
@@ -80,11 +92,18 @@
     },
     "done": true
   },
-  "triumph:stage0/leather": {
+  "triumph:stage0/lead": {
     "criteria": {
-      "completedParent": "2025-04-12 22:19:04 +0000"
+      "completedParent": "2025-04-12 22:39:24 +0000"
     },
     "done": false
+  },
+  "triumph:stage0/leather": {
+    "criteria": {
+      "hasRock": "2025-04-12 22:39:24 +0000",
+      "completedParent": "2025-04-12 22:19:04 +0000"
+    },
+    "done": true
   },
   "triumph:stage0/firsttool": {
     "criteria": {
@@ -149,6 +168,12 @@
       "hasRock1": "2025-04-12 21:50:54 +0000"
     },
     "done": true
+  },
+  "triumph:stage0/tipi": {
+    "criteria": {
+      "completedParent": "2025-04-12 22:39:24 +0000"
+    },
+    "done": false
   },
   "triumph:stage0/grill": {
     "criteria": {

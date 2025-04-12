@@ -8000,3 +8000,5 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'totemic:bark_stripper'
 [22:25:58] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Synchronizing baseline information to PansitoPa
 [22:25:58] [Server thread/INFO] [FML]: Unloading dimension 144
 [22:27:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juab2as has made the advancement [advancements.stage0.saltflats.title]
+[22:35:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PansitoPa: Teleported PansitoPa to juab2as]
+[22:39:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juab2as has made the advancement [advancements.stage0.leather.title]
